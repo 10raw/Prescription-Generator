@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886857370783",
+    "project_id": "prescription-generator-ffb95",
+    "storage_bucket": "prescription-generator-ffb95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886857370783:android:bca81b83519af7be1ce6aa",
+        "android_client_info": {
+          "package_name": "com.example.summer10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886857370783-raeksai04q6gt4sukanqo2k4mk8dn8l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVb3OS1XWAvnYGaBnzG7sZwtb36aNysHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886857370783-raeksai04q6gt4sukanqo2k4mk8dn8l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
