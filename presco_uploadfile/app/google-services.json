@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932694240098",
+    "firebase_url": "https://presco-uploadfile-default-rtdb.firebaseio.com",
+    "project_id": "presco-uploadfile",
+    "storage_bucket": "presco-uploadfile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932694240098:android:0b6921dadb53a6c0b25a3b",
+        "android_client_info": {
+          "package_name": "com.hello.presco_uploadfile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932694240098-bu5ui0aocleefbqoisbeomgurpi5oabu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmJM4Q3leJvipq-AtksigL9ps_p-VIF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932694240098-bu5ui0aocleefbqoisbeomgurpi5oabu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

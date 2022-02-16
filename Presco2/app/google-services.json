@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624113830735",
+    "project_id": "presco-5fae0",
+    "storage_bucket": "presco-5fae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624113830735:android:f53448bfac64f9b666d33a",
+        "android_client_info": {
+          "package_name": "com.example.presco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624113830735-edaseshqln4i1c4kmgq5ori2joia17lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALv9QMCXxPX7UHBBiHMbkH8KRrdMPvsTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624113830735-edaseshqln4i1c4kmgq5ori2joia17lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
